@@ -1,0 +1,6 @@
+E:\Web project\OnlineLMS\OnlineLMS\bin\OnlineLMS.dll.config
+E:\Web project\OnlineLMS\OnlineLMS\bin\OnlineLMS.dll
+E:\Web project\OnlineLMS\OnlineLMS\bin\OnlineLMS.pdb
+E:\Web project\OnlineLMS\OnlineLMS\obj\Debug\OnlineLMS.csprojResolveAssemblyReference.cache
+E:\Web project\OnlineLMS\OnlineLMS\obj\Debug\OnlineLMS.dll
+E:\Web project\OnlineLMS\OnlineLMS\obj\Debug\OnlineLMS.pdb
