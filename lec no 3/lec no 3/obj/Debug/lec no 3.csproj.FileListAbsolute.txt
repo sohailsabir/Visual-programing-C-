@@ -1,0 +1,18 @@
+C:\Users\M.A\Desktop\lec no 3\lec no 3\bin\Debug\lec no 3.exe.config
+C:\Users\M.A\Desktop\lec no 3\lec no 3\bin\Debug\lec no 3.exe
+C:\Users\M.A\Desktop\lec no 3\lec no 3\bin\Debug\lec no 3.pdb
+C:\Users\M.A\Desktop\lec no 3\lec no 3\obj\Debug\lec no 3.csprojResolveAssemblyReference.cache
+C:\Users\M.A\Desktop\lec no 3\lec no 3\obj\Debug\lec no 3.exe
+C:\Users\M.A\Desktop\lec no 3\lec no 3\obj\Debug\lec no 3.pdb
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.exe.config
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.exe
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.pdb
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.exe
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.pdb
+C:\Users\M.A\Desktop\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.csprojResolveAssemblyReference.cache
+E:\Semester 5\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.exe.config
+E:\Semester 5\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.exe
+E:\Semester 5\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.pdb
+E:\Semester 5\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.exe
+E:\Semester 5\VS Class\lec no 3\lec no 3\bin\Debug\lec no 3.pdb
+E:\Semester 5\VS Class\lec no 3\lec no 3\obj\Debug\lec no 3.csprojResolveAssemblyReference.cache
