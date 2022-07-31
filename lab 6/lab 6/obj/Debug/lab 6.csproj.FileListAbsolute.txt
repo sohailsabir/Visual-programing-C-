@@ -1,0 +1,14 @@
+C:\Users\M.A\Desktop\lab 6\lab 6\bin\Debug\lab 6.exe.config
+C:\Users\M.A\Desktop\lab 6\lab 6\bin\Debug\lab 6.exe
+C:\Users\M.A\Desktop\lab 6\lab 6\bin\Debug\lab 6.pdb
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab 6.csprojResolveAssemblyReference.cache
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab_6.Form1.resources
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab_6.Properties.Resources.resources
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab 6.csproj.GenerateResource.Cache
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab 6.exe
+C:\Users\M.A\Desktop\lab 6\lab 6\obj\Debug\lab 6.pdb
+C:\Users\M.A\Desktop\lab 6\lab 6\bin\Debug\Student.mdf
+C:\Users\M.A\Desktop\lab 6\lab 6\bin\Debug\Student_log.ldf
+E:\c#\lab 6\lab 6\bin\Debug\lab 6.exe.config
+E:\c#\lab 6\lab 6\obj\Debug\lab 6.exe
+E:\c#\lab 6\lab 6\obj\Debug\lab 6.pdb
