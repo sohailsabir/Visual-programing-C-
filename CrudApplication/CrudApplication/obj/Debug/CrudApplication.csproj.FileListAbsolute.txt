@@ -1,0 +1,16 @@
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\bin\Debug\CrudApplication.exe.config
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\bin\Debug\CRUDapplication.mdf
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\bin\Debug\CRUDapplication_log.ldf
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\bin\Debug\CrudApplication.exe
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\bin\Debug\CrudApplication.pdb
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.csprojResolveAssemblyReference.cache
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.Dashboard.resources
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.Form1.resources
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.Properties.Resources.resources
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.Student.resources
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.csproj.GenerateResource.Cache
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.exe
+C:\Users\M.A\Desktop\CrudApplication\CrudApplication\obj\Debug\CrudApplication.pdb
+E:\c#\CrudApplication\CrudApplication\bin\Debug\CrudApplication.exe.config
+E:\c#\CrudApplication\CrudApplication\obj\Debug\CrudApplication.exe
+E:\c#\CrudApplication\CrudApplication\obj\Debug\CrudApplication.pdb
