@@ -1,0 +1,18 @@
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.exe.config
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.exe
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.pdb
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.csprojResolveAssemblyReference.cache
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad_Sohail.Properties.Resources.resources
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.csproj.GenerateResource.Cache
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.exe
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.pdb
+C:\Users\M.A\Desktop\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad_Sohail.Form1.resources
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.exe.config
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.exe
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.pdb
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.exe
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\bin\Debug\Muhammad Sohail.pdb
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.csprojResolveAssemblyReference.cache
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad_Sohail.Form1.resources
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad_Sohail.Properties.Resources.resources
+E:\Semester 5\VS lab\Muhammad Sohail\Muhammad Sohail\obj\Debug\Muhammad Sohail.csproj.GenerateResource.Cache
