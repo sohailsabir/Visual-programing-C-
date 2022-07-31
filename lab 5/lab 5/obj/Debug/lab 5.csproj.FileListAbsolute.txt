@@ -1,0 +1,18 @@
+C:\Users\M.A\Desktop\lab 5\lab 5\bin\Debug\lab 5.exe.config
+C:\Users\M.A\Desktop\lab 5\lab 5\bin\Debug\lab 5.exe
+C:\Users\M.A\Desktop\lab 5\lab 5\bin\Debug\lab 5.pdb
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab 5.csprojResolveAssemblyReference.cache
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab_5.Form1.resources
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab 5.csproj.GenerateResource.Cache
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab 5.exe
+C:\Users\M.A\Desktop\lab 5\lab 5\obj\Debug\lab 5.pdb
+E:\Semester 5\VS lab\lab 5\lab 5\bin\Debug\lab 5.exe.config
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab 5.exe
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab 5.pdb
+E:\Semester 5\VS lab\lab 5\lab 5\bin\Debug\lab 5.exe
+E:\Semester 5\VS lab\lab 5\lab 5\bin\Debug\lab 5.pdb
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab 5.csprojResolveAssemblyReference.cache
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab_5.Form1.resources
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab_5.Properties.Resources.resources
+E:\Semester 5\VS lab\lab 5\lab 5\obj\Debug\lab 5.csproj.GenerateResource.Cache
